@@ -2,7 +2,7 @@
 
 A modern browser arcade game project.
 
-## Current status
+## Current status 404
 
 The repository now includes a runnable frontend scaffold at:
 
