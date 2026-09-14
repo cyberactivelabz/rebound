@@ -8,7 +8,7 @@ The repository now includes a runnable frontend scaffold at:
 
 - `/home/runner/work/rebound/rebound/apps/client`
 
-## Frontend setup (Vite + TypeScript)
+## Frontend setup (Vite + TypeScript) etc
 
 ```bash
 cd /home/runner/work/rebound/rebound/apps/client
